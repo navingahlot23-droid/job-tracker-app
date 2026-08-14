@@ -3,8 +3,8 @@ self.__BUILD_MANIFEST = {
     "afterFiles": [],
     "beforeFiles": [
       {
-        "source": "/job-tracker-next//_next/:path+",
-        "destination": "/job-tracker-next/_next/:path+"
+        "source": "/job-tracker-app//_next/:path+",
+        "destination": "/job-tracker-app/_next/:path+"
       }
     ],
     "fallback": []
